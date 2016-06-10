@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Final:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Final/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Final" />
+          <element id="library" level="project" name="apache-tomcat-9.0.0" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.38-bin.jar" />
+          <element id="file-copy" path="C:/Program Files (x86)/Java/apache-tomcat-9.0.0.M4/lib/mysql-connector-java-5.1.38-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
