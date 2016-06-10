@@ -2,7 +2,7 @@
 ----
 With the development of things like the internet, shopping online became much more popular in the world. This highlights the need for developing a platform, in order to satisfy the demands for customers and sellers. In this project, we would show you a shopping website which you can buy something you want or sell your items. This website, based on MVC framework, is a combination of MySQL, Tomcat, J2EE (JSP, Servlet and JDBC). We also use [bootstrap][1] to make the website more elegant.
 
-### Softwares
+### Requirements
 ------
    - Web Server: apache-tomcat-9.0.0.M4
    - IDE: IntelliJ IDEA 14.1.5
