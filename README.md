@@ -19,6 +19,7 @@ With the development of things like the internet, shopping online became much mo
 6. In the **Path** tag, set up your **Output path** and **Test output path**.
 7. In the **Dependencies** tag, import the **mysql-connector-java-5.1.38-bin** in *"\web\WEB-INF\lib"* and **Tomcat** in the directory that you installed. 
 8. Open *"src/com/product/jdbc/dbutil/JdbcUtils.Jave"*, edit the variable **USERNAME** and **PASSWORD** based on your "SQL connection".
+
     > Notes: if you encounter any problems in Intellij, you can follow the tips the IDE shown. Most problems can be fixed using the tips.
 9. **Run and Enjoy !**
 
