@@ -53,7 +53,7 @@ public:
         while (!q.empty()) {
             auto t = q.top();
             q.pop();
-            // Got the top of the stack and tried to walk to its four direction
+            // Got the top of the stack and tried to walk to its four directions
             for (int i = 0; i < 4; i++) {
                 int x = t->x + deltaX[i];
                 int y = t->y + deltaY[i];
